@@ -1,0 +1,11 @@
+body {
+    background-image: url("/img/bg.jpg");
+}
+h2 {
+    color: rgb(73, 21, 21);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(73, 21, 21);
+}
