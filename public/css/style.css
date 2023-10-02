@@ -9,3 +9,9 @@ a {
     text-decoration: none;
     color: rgb(73, 21, 21);
 }
+
+#addUserForm {
+    background: aliceblue;
+    padding: 2rem;
+    border-radius: 20px;
+}
